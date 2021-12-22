@@ -1,0 +1,27 @@
+.funny-glasses {
+    position: relative;
+    left: 213px;
+    bottom: 110px;
+    z-index: 0;
+}
+
+.bandana {
+    position: absolute;
+    top: 175px;
+    left: 110px;
+}
+
+.pawprint {
+    position: fixed;
+    top: 45px;
+    left: 66px;
+}
+
+.stick-corgi {
+    position: absolute;
+    z-index: 1;
+}
+
+.top-hat {
+    z-index: 1;
+}
